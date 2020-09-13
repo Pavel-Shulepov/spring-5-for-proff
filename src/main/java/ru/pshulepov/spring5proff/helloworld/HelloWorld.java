@@ -1,4 +1,4 @@
-package helloworld;
+package ru.pshulepov.spring5proff.helloworld;
 
 public class HelloWorld {
 
